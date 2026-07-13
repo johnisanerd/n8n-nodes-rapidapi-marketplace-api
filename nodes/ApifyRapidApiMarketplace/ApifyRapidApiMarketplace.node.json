@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-rapidapi-marketplace-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Development",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/rapidapi-marketplace-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"rapidapi",
+		"rapid api",
+		"api marketplace",
+		"api directory",
+		"api search",
+		"api discovery",
+		"developer tools",
+		"api pricing",
+		"api catalog",
+		"apify"
+	]
+}
